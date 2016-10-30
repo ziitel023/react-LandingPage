@@ -1,0 +1,1 @@
+export { default as WebTable } from './components/WebTable';
